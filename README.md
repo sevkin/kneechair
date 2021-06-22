@@ -1,5 +1,7 @@
 # коленный стул
 
+![](kneechair.jpg)
+
 (как у Лизы Симпсон) по мотивам коленного стула [Колосок](https://kolstul.ru/chertezhi-kolennogo-stula-delaem-stul-samostoyatelno/)
 
 ## детали из фанеры
